@@ -11,7 +11,7 @@
 // console.log(avg(2, 20, 15, 15));
 
 
-// function calc(num){
-//     return Math.trunc(1280/1920*num)+"px";
-// }
-// console.log(calc(855));
+function calc(num){
+    return Math.trunc(1280/1920*num)+"px";
+}
+console.log(calc(50));
